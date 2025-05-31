@@ -1,0 +1,21 @@
+# Arquivos de compilação
+*.class
+
+# Diretórios de build
+/bin/
+/out/
+/target/
+/build/
+
+# Arquivos de log
+*.log
+
+# Configurações de IDE
+*.iml
+.idea/
+*.vscode/
+
+# Arquivos temporários
+*.swp
+*.tmp
+.DS_Store
